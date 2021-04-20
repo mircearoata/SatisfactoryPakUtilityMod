@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.5.0",
+    "SemVersion": "0.5.0",
+	"FriendlyName": "UtilityMod",
+	"Description": "Utility Mod, but compatible with other mods",
+	"Category": "Modding",
+	"CreatedBy": "Mircea Roata",
+	"CreatedByURL": "https://github.com/mircearoata/SatisfactoryPakUtilityMod",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+    "Plugins": [
+        {
+            "Name": "SML",
+            "SemVersion": "^3.0.0",
+            "Enabled": true
+        }
+    ]
+}
