@@ -2,7 +2,4 @@
 
 Pak version of [UtilityMod](https://github.com/Brabb3l/UtilityMod) for Satisfactory.
 
-To make changes you need:
-
-* Unreal Engine 4.21.2
-* https://github.com/satisfactorymodding/SatisfactoryUnrealProject
+To make changes you need to follow the setup steps in [the modding docs](https://docs.ficsit.app/)
