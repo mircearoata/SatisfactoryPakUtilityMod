@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.7.1",
-    "SemVersion": "0.7.1",
+	"VersionName": "0.8.0",
+	"SemVersion": "0.8.0",
 	"FriendlyName": "UtilityMod",
 	"Description": "Utility Mod, but compatible with other mods",
 	"Category": "Modding",
@@ -15,11 +15,11 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-    "Plugins": [
-        {
-            "Name": "SML",
-            "SemVersion": "^3.3.2",
-            "Enabled": true
-        }
-    ]
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.5.0",
+			"Enabled": true
+		}
+	]
 }
