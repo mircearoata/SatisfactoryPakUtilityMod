@@ -1,13 +1,13 @@
 {
 	"FileVersion": 3,
-	"Version": 0,
-	"VersionName": "0.8.4",
-	"SemVersion": "0.8.4",
-	"GameVersion": ">=410840",
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=416835",
 	"FriendlyName": "UtilityMod",
 	"Description": "Utility Mod, but compatible with other mods",
 	"Category": "Modding",
-	"CreatedBy": "Mircea Roata",
+	"CreatedBy": "Mircea Roata, Bababooie",
 	"CreatedByURL": "https://github.com/mircearoata/SatisfactoryPakUtilityMod",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -19,7 +19,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.11.0",
+			"SemVersion": "^3.11.2",
 			"Enabled": true
 		}
 	]
